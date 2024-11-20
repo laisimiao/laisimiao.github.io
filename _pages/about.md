@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Simiao Lai** (赖思邈), a Ph.D.  consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm **Simiao Lai <font face="楷体" >(赖思邈)</font>**, a Ph.D. candidate in School of Information and Communication Engineering, Dalian University of Technology (DUT), under the tutelage of [Prof. Huchuan Lu, IEEE FELLOW](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en). My research interests include <u><i>Visual Object Tracking</i></u> and <u><i>MultiModel leanring</i></u>. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm committed to making XAI meaningful and actually helping us with AI systems. Including in the <u><i>model testing phase</i></u>, building an interpretation method for debugging the model to help us discover potential biases and errors in the model. In the <u><i>model training phase</i></u>, specific defects are discovered through interpretability, and a reasonable feedback mechanism is designed to enable the model to automatically repair errors to improve model performance and generalization, while making the training process transparent. In the <u><i>model deployment phase</i></u>, improve the explanation of the model and study the human-computer interaction or AI agent processes in dynamic environments.
+
+I received my B.E. degree from College Of Information Science and Engineering, Northeastern University and mentored by **Prof. Jing-Jiao Li** at NEU, [Prof. Dong Wang](https://scholar.google.com/citations?user=nVgPQpoAAAAJ&hl=en) and [Prof. Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en) (Fellow, IEEE) at DUT.
+
+I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **SOT**, **Vison-Language Tracking**and **MultiModel Learning**. Please feel free to contact me.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by TCSVT2024!
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by TNNLS2024! One paper is accepted by ICME2024!
+- *2023.02*: &nbsp;🎉🎉 One paper is accepted by CVPR2023!
 
 # 📝 Publications 
 
