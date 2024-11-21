@@ -64,7 +64,7 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 [Visual Prompt Multi-Modal Tracking](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)
 
-Jiawen Zhu, **Simiao Lai**, Xin Chen, Dong Wang, Huchuan Lu
+Jiawen Zhu$^\dagger$, **Simiao Lai$^{\dagger}$**, Xin Chen, Dong Wang, Huchuan Lu ($\dagger$: Equal contribution)  
 
 [**Paper**](https://arxiv.org/abs/2303.10826) / [**Project**](https://github.com/jiawen-zhu/ViPT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
