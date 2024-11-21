@@ -81,8 +81,8 @@ Conference on Computer Vision and Pattern Recognition (CVPR)
 - **China National Scholarship <font face="楷体" >(国家奖学金)</font>**, at NEU, 2018.
 
 # 📖 Educations
-- *2020.09 - 2026.06 (excepted)*,
-School of Information and Communication Engineering, Dalian University of Technology, China. 
+- *2020.09 - 2026.06 (excepted)*,  
+School of Information and Communication Engineering, Dalian University of Technology, China.   
 Ph.D. Candidate
 - *2016.09 - 2020.06*,
 College Of Information Science and Engineering, Northeastern University, China.  
