@@ -89,7 +89,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR)
 # 🎖 Honors and Awards
 - **VOT-RGBD2022 + VOT-D2022 Winner**, at DUT, 2022.
 - **China National Scholarship <font face="楷体" >(国家奖学金)</font>**, at DUT, 2020.
-- **Liaoning Outstanding Graduates <font face="楷体" >(辽宁省优秀毕业生)</font>**, at DUT, 2020.
+- **Liaoning Outstanding Graduates <font face="楷体" >(辽宁省优秀毕业生)</font>**, at NEU, 2020.
 - **CASC Scholarship <font face="楷体" >(中国航天科技集团公司CASC奖学金)</font>**, at NEU, 2019.
 - **China National Scholarship <font face="楷体" >(国家奖学金)</font>**, at NEU, 2018.
 
