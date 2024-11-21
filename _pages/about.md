@@ -19,8 +19,6 @@ redirect_from:
 
 I'm **Simiao Lai <font face="楷体" >(赖思邈)</font>**, a Ph.D. candidate in School of Information and Communication Engineering, Dalian University of Technology (DUT), under the tutelage of [Prof. Huchuan Lu, IEEE FELLOW](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en). My research interests include <u><i>Visual Object Tracking</i></u> and <u><i>MultiModel leanring</i></u>. 
 
-I'm committed to making XAI meaningful and actually helping us with AI systems. Including in the <u><i>model testing phase</i></u>, building an interpretation method for debugging the model to help us discover potential biases and errors in the model. In the <u><i>model training phase</i></u>, specific defects are discovered through interpretability, and a reasonable feedback mechanism is designed to enable the model to automatically repair errors to improve model performance and generalization, while making the training process transparent. In the <u><i>model deployment phase</i></u>, improve the explanation of the model and study the human-computer interaction or AI agent processes in dynamic environments.
-
 I received my B.E. degree from College Of Information Science and Engineering, Northeastern University and mentored by **Prof. Jing-Jiao Li** at NEU, [Prof. Dong Wang](https://scholar.google.com/citations?user=nVgPQpoAAAAJ&hl=en) and [Prof. Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en) (Fellow, IEEE) at DUT.
 
 I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **SOT**, **Vison-Language Tracking**and **MultiModel Learning**. Please feel free to contact me.
@@ -31,33 +29,69 @@ I am open for collaborations in research. I am also actively looking for collabo
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by TNNLS2024! One paper is accepted by ICME2024!
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by CVPR2023!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/EMTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[EMTrack: Efficient Multimodal Object Tracking](https://ieeexplore.ieee.org/abstract/document/10747517/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Chang Liu, Ziqi Guan, **Simiao Lai**, Yang Liu, Huchuan Lu, Dong Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10747517/) / [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+<font color=purple>Impact factor: 8.3</font>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/refocus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking](https://ieeexplore.ieee.org/abstract/document/10601348/)
+
+**Simiao Lai**, Chang Liu, Dong Wang, Huchuan Lu
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10601348/) / [**Project**](https://github.com/laisimiao/ReFocus_TIR_Tracking) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+<font color=purple>Impact factor: 10.2</font>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/vipt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visual Prompt Multi-Modal Tracking](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)
+
+Jiawen Zhu, **Simiao Lai**, Xin Chen, Dong Wang, Huchuan Lu
+
+[**Paper**](https://arxiv.org/abs/2303.10826) / [**Project**](https://github.com/jiawen-zhu/ViPT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+Conference on Computer Vision and Pattern Recognition (CVPR)
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **VOT-RGBD2022 + VOT-D2022 Winner**, at DUT, 2022.
+- **China National Scholarship <font face="楷体" >(国家奖学金)</font>**, at DUT, 2020.
+- **Liaoning Outstanding Graduates <font face="楷体" >(辽宁省优秀毕业生)</font>**, at DUT, 2020.
+- **CASC Scholarship <font face="楷体" >(中国航天科技集团公司CASC奖学金)</font>**, at NEU, 2019.
+- **China National Scholarship <font face="楷体" >(国家奖学金)</font>**, at NEU, 2018.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2026.06 (excepted)*,
+School of Information and Communication Engineering, Dalian University of Technology, China. 
+Ph.D. Candidate
+- *2016.09 - 2020.06*,
+College Of Information Science and Engineering, Northeastern University, China.  
+Bachelor of Engineering  
+Ranking: 4/283 (2/37)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.10*, Whispers2023 Challenge2 Hyperspectral Object Tracking: Third Place Online Oral Presentation. ([**Video**](https://www.youtube.com/watch?v=BfxQ6rIxjvU))
+- *2022.10*, VOT-RGBD2022 + VOT-D2022 Winners presentations @ECCV2022 workshop program. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Looking for **remote** internship opportunities and collaborations.
