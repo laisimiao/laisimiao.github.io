@@ -45,6 +45,19 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/depthrefiner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DepthRefiner: Adapting RGB Trackers to RGBD Scenes via Depth-Fused Refinement](https://ieeexplore.ieee.org/abstract/document/10687717)
+
+**Simiao Lai**, Dong Wang, Huchuan Lu
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10687717) / [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE International Conference on Multimedia and Expo (ICME) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/refocus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
