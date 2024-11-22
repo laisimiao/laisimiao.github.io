@@ -21,7 +21,7 @@ I'm **Simiao Lai <font face="楷体" >(赖思邈)</font>**, a Ph.D. candidate in
 
 I received my B.E. degree from College Of Information Science and Engineering, Northeastern University and mentored by **Prof. Jing-Jiao Li** at NEU, [Prof. Dong Wang](https://scholar.google.com/citations?user=nVgPQpoAAAAJ&hl=en) and [Prof. Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en) (Fellow, IEEE) at DUT.
 
-I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **SOT**, **Vison-Language Tracking**and **MultiModal Learning**. Please feel free to contact me.
+I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **SOT**, **Vison-Language Tracking** and **MultiModal Learning**. Please feel free to contact me.
 
 
 # 🔥 News
