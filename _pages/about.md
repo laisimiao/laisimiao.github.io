@@ -87,6 +87,9 @@ Conference on Computer Vision and Pattern Recognition (CVPR)
 
 
 # 🎖 Honors and Awards
+- **Multi-Modal Visual Pattern Recognition Workshop Multi-Modal Tracking Track Third Place**, at DUT, 2024.
+- **Hyperspectral Object Tracking Challenge 2023 Third Place**, at DUT, 2023.
+- **DUT Outstanding Graduate Student Award <font face="楷体" >(优秀研究生)</font>**, at DUT, 2023/2024.
 - **VOT-RGBD2022 + VOT-D2022 Winner**, at DUT, 2022.
 - **China National Scholarship <font face="楷体" >(国家奖学金)</font>**, at DUT, 2020.
 - **Liaoning Outstanding Graduates <font face="楷体" >(辽宁省优秀毕业生)</font>**, at NEU, 2020.
